@@ -6,5 +6,4 @@ $python setup.py build
 
 $sudo python setup.py install
 
-This should allow you to import tree module in a Python script. Please help test it. I'll build an efficient implementation of Decison 
-Trees next. 
+This should allow you to import tree module in a Python script. Please help test it. Let's try build an efficient implementation of Decison Trees next!!!
